@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -11,9 +12,9 @@ const LandingPage = () => {
                 src="/landing.png"
             />
             <Link href="/">
-                <button className="absolute uppercase bg-amber-500 top-1/2 left-1/3">
+                <Button className="absolute uppercase bg-amber-500 top-3/4 left-1/4">
                     Mulai Belajar
-                </button>
+                </Button>
             </Link>
         </>
     )
