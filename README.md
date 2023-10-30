@@ -1,4 +1,4 @@
-#Nicourse LMS Project Platform for Business Class My High School Project
+# Nicourse LMS Project Platform for Business Class My High School Project
 
 Yes, I am dev and businessman (Hopefully, I wish I could)
 
