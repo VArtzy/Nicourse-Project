@@ -2,9 +2,9 @@
 
 Yes, I am dev and businessman (Hopefully, I wish I could)
 
-```Big Thanks to [AntonioErdeljac](https://github.com/AntonioErdeljac) to make base LMS template so save my time for creating non making money project -- It's High School project right? and thanks for big stack to support this LMS.```
+**Big Thanks to [AntonioErdeljac](https://github.com/AntonioErdeljac) to make base LMS template so save my time for creating non making money project -- It's High School project right? and thanks for big stack to support this LMS.**
 
-**FROM Antonio Erdeljac**
+***FROM Antonio Erdeljac***
 
 This is a repository for Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
 
